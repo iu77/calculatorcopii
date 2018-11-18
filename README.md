@@ -1,2 +1,0 @@
-# calculatorcopii
-Created with CodeSandbox
