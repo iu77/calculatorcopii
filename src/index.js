@@ -13,9 +13,10 @@ function sum() {
     console.info("daca x<y incrementam pe y de x ori pana cand x=y");
   }
   console.info("rezultat x+y=z");
-  sum(6);
+  sum(z);
 }
-var x = 5;
-var y = 3;
-var z = x + y;
-console.info(y);
+console.info("rezultatul adunarii este " + z);
+console.info( "daca  x  este   " + x );
+console.info( "si daca y este  " +y); 
+console.info("atunci x+y este " +z);
+console.info("x+y este x + (1+1+1+1+1....+1)de y ori");
